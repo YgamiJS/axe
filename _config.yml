@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/axe"
-url: "https://seryibaran.github.io/"
+url: "https://seryibaran.github.io"
 uploads: "{{ site.baseurl }}/uploads"
 
 # THEME-SPECIFIC CONFIGURATION
